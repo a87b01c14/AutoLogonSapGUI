@@ -1,0 +1,34 @@
+{
+  "Win": {
+    "ApplicationPath": "C:\\Program Files (x86)\\SAP\\FrontEnd\\SapGui\\saplogon.exe",
+    "ApplicationName": "SAP Logon"
+  },
+  "Mac": {
+    "ApplicationPath": "/Applications/SAP Clients/SAPGUI/SAPGUI.app",
+    "ApplicationName": "SAPGUI",
+    "WindowName": "SAP GUI for Java"
+  },
+  "items": [
+    {
+      "index": 4,
+      "title": "DEV 200",
+      "client": "200",
+      "user": "#",
+      "password": "#"
+    },
+    {
+      "index": 4,
+      "title": "DEV 400",
+      "client": "400",
+      "user": "#",
+      "password": "#"
+    },
+    {
+      "index": 7,
+      "title": "PRD 800",
+      "client": "800",
+      "user": "#",
+      "password": "#"
+    }
+  ]
+}
