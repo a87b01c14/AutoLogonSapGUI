@@ -1,2 +1,3 @@
 pyautogui
 wxPython
+pywin32 #windows

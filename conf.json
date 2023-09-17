@@ -1,55 +1,33 @@
 {
-  "ApplicationPath": "/Applications/SAP Clients/SAPGUI/SAPGUI.app",
-  "ApplicationName": "SAPGUI",
-  "WindowName": "SAP GUI for Java",
+  "Win": {
+    "ApplicationPath": "C:\\Program Files (x86)\\SAP\\FrontEnd\\SapGui\\saplogon.exe",
+    "ApplicationName": "SAP Logon"
+  },
+  "Mac": {
+    "ApplicationPath": "/Applications/SAP Clients/SAPGUI/SAPGUI.app",
+    "ApplicationName": "SAPGUI",
+    "WindowName": "SAP GUI for Java"
+  },
   "items": [
     {
-      "index": 7,
-      "title": "Antex DEV 200",
+      "index": 6,
+      "title": "DEV 200",
       "client": "200",
-      "user": "AT-YUXS",
-      "password": "#"
-    },
-    {
-      "index": 7,
-      "title": "Antex DEV 400",
-      "client": "400",
-      "user": "10013993",
-      "password": "#"
-    },
-    {
-      "index": 8,
-      "title": "Antex PRD 800",
-      "client": "800",
-      "user": "10013993",
-      "password": "#"
-    },
-    {
-      "index": 4,
-      "title": "PB S4D 110",
-      "client": "110",
-      "user": "YU.XIAOSAN",
-      "password": "#"
-    },
-    {
-      "index": 4,
-      "title": "PB S4D 120",
-      "client": "120",
-      "user": "YU.XIAOSAN",
-      "password": "#"
-    },
-    {
-      "index": 5,
-      "title": "PB S4P 800",
-      "client": "800",
-      "user": "YU.XIAOSAN",
+      "user": "#",
       "password": "#"
     },
     {
       "index": 6,
-      "title": "PB S4Q 300",
-      "client": "300",
-      "user": "YU.XIAOSAN",
+      "title": "DEV 400",
+      "client": "400",
+      "user": "#",
+      "password": "#"
+    },
+    {
+      "index": 7,
+      "title": "PRD 800",
+      "client": "800",
+      "user": "#",
       "password": "#"
     }
   ]
